@@ -1,0 +1,25 @@
+# CLion
+.idea/
+*.iml
+
+# CMake
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+CMakeUserPresets.json
+CMakeLists.txt.user
+Testing/
+_deps/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.log
